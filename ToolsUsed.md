@@ -11,3 +11,5 @@
 4. **JavaScript / Python**: These are the primary programming languages used for demonstrating code examples during the session. JavaScript is widely used for web development, while Python is versatile and commonly used for scripting, data analysis, and machine learning.
 
 5. **LeetCode**: LeetCode is a platform for practicing coding skills and preparing for technical interviews. It offers a wide range of coding problems and challenges in various programming languages. [Visit LeetCode](https://leetcode.com/)
+   
+7. **ChatGPT**: My personal Assistant for preparations and stuff. [ChatGPT](https://chat.openai.com/)
